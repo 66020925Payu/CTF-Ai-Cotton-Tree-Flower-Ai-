@@ -9,9 +9,9 @@ Product vision
 For -  ผู้ปลูกดอกงิ้ว
 Who -  ไม่รู้สายพันธ์ุดอกงิ้ว
 The - CTF Ai (Cotton Tree Flower Ai)
-Is a -  ระบบจำแนกสายพันธ์ุดอกงิ้ว
+Is a -  ระบบจำแนกสายพันธ์ุ
 That - ช่วยให้จำแนกสายพันธ์ุดอกงิ้วได้
-Unlike -  แอพออกกำลังกาย และแอพกีฬา
+Unlike -  แอปจำแนกพันธุ์พืชจากภาพถ่าย
 Our Product -  การใช้ ภาพถ่าย จำแนกสายพันธ์ุดอกงิ้ว โดย Ai
 
 Repository Structure
